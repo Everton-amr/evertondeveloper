@@ -1,0 +1,35 @@
+@media (min-width: 390px) and (max-width: 700px) { 
+
+    header{ 
+        flex-direction: column;
+    
+}
+}
+ul{
+    text-align: center;
+    font-size: 20px;
+}
+
+main{
+    flex-direction: column;
+    margin-top: -20px;
+}
+h2{
+    font-size: 38px;
+}
+
+form{
+    margin: 0 auto;
+}
+
+input{
+    align-self: center;
+}
+
+img{
+    display: none;
+}
+
+input[type="submit"]{
+    align-self: center;
+}
